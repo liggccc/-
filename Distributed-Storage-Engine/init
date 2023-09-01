@@ -1,0 +1,6 @@
+#!/bin/bash
+
+rm -f ./index/1
+rm -f ./mainblock/1
+
+./hash_index init
